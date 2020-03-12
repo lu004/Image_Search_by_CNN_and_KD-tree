@@ -11,8 +11,11 @@ json
 scipy
 and others ...
 
-# Images and model file
-Add images from geological_similarity.zip in folder ./code/geological_similarity/geological_similarity. If no images, the code cannot run.
+# Image data
+If no image data, the code cannot run.
+Please use your own image dataset for running. (No image data is provided)
+
+# Model file
 Note that the trained model file of CNN, stored as as "cnn.h5" and the kd-tree indexed file stored as "kt_x.pickle"
 
 # Running
